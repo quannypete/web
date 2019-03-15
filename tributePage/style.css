@@ -1,0 +1,25 @@
+body{
+background-color:black;
+}
+h1{
+  font-family: 'Creepster';
+  font-size: 90px;
+  color: #32cd32;
+}
+img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+}
+.container{
+  color: #32cd32;
+}
+.text-center{
+  text-align: center;
+}
