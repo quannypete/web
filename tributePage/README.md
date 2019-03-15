@@ -3,6 +3,6 @@
 You can click on a link to be taken to the site
 
 ## Tribute Page
-https://quannypete.github.io/web/tributePage/
+https://quannypete.github.io/web/tributePage/ </br>
 This is a tribute page I created for my favorite childhood show Danny Phantom 
 
