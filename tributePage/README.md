@@ -2,6 +2,6 @@
 
 You can click on a link to be taken to the site
 
-Markup :  # Heading 1 #
+# Tribute Page
 https://quannypete.github.io/web/tributePage/
 
